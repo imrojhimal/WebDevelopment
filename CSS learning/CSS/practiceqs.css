@@ -13,3 +13,8 @@ h1,h3{
 {
     background-color: white;
 }
+.upvote
+{
+    background-color: rgb(14, 85, 14);
+    color: aliceblue;
+}
