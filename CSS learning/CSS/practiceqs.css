@@ -1,0 +1,15 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1,h3{
+    color: #f52936;
+}
+#signup
+{
+    background-color: #f52936;
+    color: white;
+}
+#login
+{
+    background-color: white;
+}
