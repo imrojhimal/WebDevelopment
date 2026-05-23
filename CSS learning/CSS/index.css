@@ -22,3 +22,9 @@ h1,h3{
     color: purple;
     background-color:yellowgreen;
 }
+nav ul li a{
+    color:hotpink;
+}
+p+h3{
+    text-decoration: underline;
+}
