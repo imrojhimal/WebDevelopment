@@ -18,3 +18,7 @@ h1,h3{
     background-color: rgb(14, 85, 14);
     color: aliceblue;
 }
+.pg a{
+    color: purple;
+    background-color:yellowgreen;
+}
