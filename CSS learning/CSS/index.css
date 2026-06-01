@@ -58,3 +58,7 @@ div>p{
     font-weight: bolder;
     font-style: italic;
 }
+button:hover{
+    color:black;
+    background-color: blueviolet;
+}
