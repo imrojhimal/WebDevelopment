@@ -28,3 +28,20 @@ nav ul li a{
 p+h3{
     text-decoration: underline;
 }
+.upvote+button{
+    background-color: cornflowerblue;
+    color:darkblue;
+}
+div>input{
+    background-color: rgb(246, 246, 246);
+}
+input[type="text"]{
+    color: #f52936;
+}
+input[type="password"]{
+    color: green;
+}
+input[type]
+{
+    background-color: ghostwhite;
+}
