@@ -45,3 +45,9 @@ input[type]
 {
     background-color: ghostwhite;
 }
+div[id="myId"]{
+    color: chartreuse;
+}
+#myId p{
+    background-color: bisque;
+}
