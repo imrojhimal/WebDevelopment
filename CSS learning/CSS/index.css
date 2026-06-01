@@ -51,3 +51,10 @@ div[id="myId"]{
 #myId p{
     background-color: bisque;
 }
+div>p{
+    font-family: sans-serif;
+    font-display: fallback;
+    font-size: large;
+    font-weight: bolder;
+    font-style: italic;
+}
