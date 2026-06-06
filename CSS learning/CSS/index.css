@@ -68,4 +68,5 @@ button:active{
 }
 div>p:active{
     color: blue;
+    text-decoration: double;
 }
